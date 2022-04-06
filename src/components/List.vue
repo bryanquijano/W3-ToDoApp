@@ -31,7 +31,7 @@ defineProps({
             : 'text-gray-600 bg-gray-300 hover:bg-gray-400 hover:text-gray-200'
         "
       >
-        {{ todo.content }}
+        {{ todo.text }}
       </li>
     </ul>
   </div>
